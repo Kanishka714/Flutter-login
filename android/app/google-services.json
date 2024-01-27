@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "542190780438",
+    "project_id": "login-aae3d",
+    "storage_bucket": "login-aae3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542190780438:android:8ca16fec54de6d793ff537",
+        "android_client_info": {
+          "package_name": "com.example.new_login_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1rawbsRHV1CRiHTK-yjUanWYNuY4vWWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542190780438:android:ef2de9eb18be0ead3ff537",
+        "android_client_info": {
+          "package_name": "com.example.sin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1rawbsRHV1CRiHTK-yjUanWYNuY4vWWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
